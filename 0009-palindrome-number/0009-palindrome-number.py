@@ -1,5 +1,6 @@
 class Solution(object):
     def isPalindrome(self, x):
+        #brute force 
         num = x
         palindrome = 0
         while x > 0:
