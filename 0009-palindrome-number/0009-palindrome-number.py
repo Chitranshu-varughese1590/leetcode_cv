@@ -1,13 +1,7 @@
 class Solution(object):
     def isPalindrome(self, x):
-        #brute force 
-        num = x
-        palindrome = 0
-        while x > 0:
-            last = x % 10 
-            palindrome = (palindrome * 10) + last
-            x = x //10
-        if palindrome == num :
+        s = str(x)
+        if s == s[::-1]:
             return True
-        else :
-            return False        
+        else:
+            return False          
