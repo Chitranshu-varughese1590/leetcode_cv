@@ -21,4 +21,8 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0242-valid-anagram) |
+## Math
+|  |
+| ------- |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/2520-count-the-digits-that-divide-a-number) |
 <!---LeetCode Topics End-->
