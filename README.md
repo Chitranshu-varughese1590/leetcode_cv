@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -57,4 +58,8 @@
 | [0450-delete-node-in-a-bst](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0701-insert-into-a-binary-search-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
