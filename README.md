@@ -21,6 +21,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0242-valid-anagram) |
 ## Math
 |  |
@@ -62,4 +63,5 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
