@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0217-contains-duplicate) |
+| [1046-last-stone-weight](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/1046-last-stone-weight) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,4 +65,8 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0125-valid-palindrome) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
