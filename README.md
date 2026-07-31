@@ -9,6 +9,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0268-missing-number) |
 | [1046-last-stone-weight](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/1046-last-stone-weight) |
 ## Hash Table
 |  |
@@ -16,12 +17,14 @@
 | [0001-two-sum](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -31,6 +34,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0509-fibonacci-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Dynamic Programming
@@ -56,6 +60,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0268-missing-number) |
 | [0450-delete-node-in-a-bst](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -94,4 +99,8 @@
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0703-kth-largest-element-in-a-stream) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
