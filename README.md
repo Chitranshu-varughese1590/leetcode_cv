@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0215-kth-largest-element-in-an-array) |
@@ -24,6 +25,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0217-contains-duplicate) |
@@ -80,6 +82,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0125-valid-palindrome) |
 ## Heap (Priority Queue)
@@ -113,4 +116,12 @@
 | ------- |
 | [0724-find-pivot-index](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/1480-running-sum-of-1d-array) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
