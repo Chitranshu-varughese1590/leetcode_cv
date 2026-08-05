@@ -9,6 +9,7 @@
 | [0075-sort-colors](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0268-missing-number) |
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0268-missing-number) |
@@ -27,6 +29,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0242-valid-anagram) |
@@ -94,6 +97,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
@@ -124,4 +128,12 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0075-sort-colors) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
