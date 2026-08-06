@@ -13,6 +13,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0268-missing-number) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0724-find-pivot-index](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0724-find-pivot-index) |
 | [0973-k-closest-points-to-origin](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/1046-last-stone-weight) |
@@ -95,6 +96,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0215-kth-largest-element-in-an-array) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/1046-last-stone-weight) |
