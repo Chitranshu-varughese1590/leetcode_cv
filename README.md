@@ -20,6 +20,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/1046-last-stone-weight) |
 | [1480-running-sum-of-1d-array](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/1480-running-sum-of-1d-array) |
+| [1929-concatenation-of-array](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -156,4 +157,8 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0973-k-closest-points-to-origin) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
