@@ -1,12 +1,9 @@
 class Solution(object):
     def getConcatenation(self, nums):
         ans = []
-        for num in nums:
-            ans.append(num)
-
-        for num in nums:
-            ans.append(num)
-
-        return ans    
-
+        
+        for i in range(2):
+            for n in nums:
+                ans.append(n)
+        return ans        
         
