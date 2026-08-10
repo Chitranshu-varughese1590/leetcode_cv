@@ -30,6 +30,7 @@
 | [0217-contains-duplicate](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -148,6 +150,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -164,4 +167,8 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/1929-concatenation-of-array) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
