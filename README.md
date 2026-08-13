@@ -15,6 +15,7 @@
 | [0217-contains-duplicate](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0414-third-maximum-number](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0414-third-maximum-number) |
@@ -32,6 +33,7 @@
 | [0217-contains-duplicate](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
@@ -44,6 +46,7 @@
 | [0217-contains-duplicate](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0414-third-maximum-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0973-k-closest-points-to-origin) |
@@ -86,6 +89,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0450-delete-node-in-a-bst](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0700-search-in-a-binary-search-tree) |
@@ -106,6 +110,7 @@
 | [0088-merge-sorted-array](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0977-squares-of-a-sorted-array) |
 ## Heap (Priority Queue)
