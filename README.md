@@ -21,6 +21,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0414-third-maximum-number](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0414-third-maximum-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0724-find-pivot-index) |
 | [0973-k-closest-points-to-origin](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0977-squares-of-a-sorted-array) |
@@ -40,6 +41,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
@@ -158,6 +160,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/1480-running-sum-of-1d-array) |
 ## Quicksort
