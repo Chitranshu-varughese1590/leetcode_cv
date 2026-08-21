@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -98,6 +99,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0350-intersection-of-two-arrays-ii) |
