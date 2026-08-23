@@ -30,6 +30,7 @@
 | [1046-last-stone-weight](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/1046-last-stone-weight) |
 | [1480-running-sum-of-1d-array](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/1929-concatenation-of-array) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0560-subarray-sum-equals-k) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Sorting
 |  |
 | ------- |
@@ -181,6 +183,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0387-first-unique-character-in-a-string) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
