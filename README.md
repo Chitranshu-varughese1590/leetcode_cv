@@ -31,6 +31,7 @@
 | [1046-last-stone-weight](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/1046-last-stone-weight) |
 | [1480-running-sum-of-1d-array](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/1929-concatenation-of-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
@@ -47,6 +48,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0387-first-unique-character-in-a-string) |
 | [0525-contiguous-array](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0560-subarray-sum-equals-k) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Sorting
 |  |
@@ -215,4 +217,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0014-longest-common-prefix) |
+## Sliding Window
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
