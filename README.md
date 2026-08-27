@@ -74,6 +74,7 @@
 | [0125-valid-palindrome](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0387-first-unique-character-in-a-string) |
+| [1768-merge-strings-alternately](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/1768-merge-strings-alternately) |
 ## Math
 |  |
 | ------- |
@@ -137,6 +138,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0977-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/1768-merge-strings-alternately) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
