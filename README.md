@@ -73,6 +73,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0387-first-unique-character-in-a-string) |
@@ -227,4 +228,12 @@
 |  |
 | ------- |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
