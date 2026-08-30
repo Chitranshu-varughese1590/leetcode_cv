@@ -30,6 +30,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/1046-last-stone-weight) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/1929-concatenation-of-array) |
@@ -180,6 +181,7 @@
 | [0525-contiguous-array](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0724-find-pivot-index) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/1480-running-sum-of-1d-array) |
 ## Quicksort
 |  |
