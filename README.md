@@ -26,6 +26,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0560-subarray-sum-equals-k) |
+| [0682-baseball-game](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0724-find-pivot-index) |
 | [0973-k-closest-points-to-origin](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0977-squares-of-a-sorted-array) |
@@ -212,6 +213,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0682-baseball-game) |
 | [1920-build-array-from-permutation](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/1929-concatenation-of-array) |
 ## Queue
@@ -234,6 +236,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0682-baseball-game) |
 ## Bracket Sequences
 |  |
 | ------- |
