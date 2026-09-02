@@ -37,6 +37,7 @@
 | [1929-concatenation-of-array](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/1929-concatenation-of-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,6 +92,7 @@
 | [0509-fibonacci-number](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0973-k-closest-points-to-origin) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
