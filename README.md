@@ -34,6 +34,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/1046-last-stone-weight) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1470-shuffle-the-array](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/1929-concatenation-of-array) |
