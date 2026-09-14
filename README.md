@@ -36,6 +36,7 @@
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1470-shuffle-the-array](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/1480-running-sum-of-1d-array) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/1584-min-cost-to-connect-all-points) |
 | [1920-build-array-from-permutation](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/1929-concatenation-of-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -274,8 +275,26 @@
 | ------- |
 | [0547-number-of-provinces](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0841-keys-and-rooms) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/1584-min-cost-to-connect-all-points) |
 ## Union-Find
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0547-number-of-provinces) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/1584-min-cost-to-connect-all-points) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
