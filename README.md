@@ -104,6 +104,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0509-fibonacci-number) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Recursion
 |  |
 | ------- |
@@ -159,6 +160,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0215-kth-largest-element-in-an-array) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/1046-last-stone-weight) |
 ## Divide and Conquer
@@ -260,6 +262,7 @@
 | [0207-course-schedule](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0841-keys-and-rooms) |
 ## Breadth-First Search
 |  |
@@ -267,6 +270,7 @@
 | [0207-course-schedule](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0841-keys-and-rooms) |
 ## Matrix
 |  |
@@ -277,6 +281,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0841-keys-and-rooms) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/1584-min-cost-to-connect-all-points) |
 ## Union-Find
@@ -308,4 +313,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0207-course-schedule) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
