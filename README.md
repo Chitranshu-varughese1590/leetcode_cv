@@ -27,6 +27,7 @@
 | [0485-max-consecutive-ones](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0733-flood-fill) |
@@ -242,6 +243,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0643-maximum-average-subarray-i) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Stack
 |  |
