@@ -17,6 +17,7 @@
 | [0189-rotate-array](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0349-intersection-of-two-arrays) |
@@ -52,6 +53,7 @@
 | [0202-happy-number](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0349-intersection-of-two-arrays) |
@@ -243,6 +245,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/0643-maximum-average-subarray-i) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Chitranshu-varughese1590/leetcode_cv/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Stack
